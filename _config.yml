@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 domain: ornlcda.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ornlcda.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /MLHPC22/ 
-title: SC'22 Machine Learning in HPC Environments
-description: SC'22 Machine Learning in HPC Environments
+title: SC'22 8th International Workshop on Machine Learning in HPC Environments
+description: Held in conjunction with SC'22: The International Conference for High Performance Computing, Networking, Storage and Analysis located in Dallas, TX on November 13 - 18, 2022
 github:
   is_project_page: false
