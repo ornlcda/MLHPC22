@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
 domain: ornlcda.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ornlcda.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /MLHPC22/ 
