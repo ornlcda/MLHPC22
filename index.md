@@ -34,19 +34,19 @@ Final Manuscript Due: Sept 15, 2022
 Workshop Date: November 13, 2022
 
 ## Organizing Committee
-Robert M. Patton, Oak Ridge National Laboratory
+### Robert M. Patton, Oak Ridge National Laboratory
 
 Robert M. Patton is a Distinguished Research Staff in the Computer Science and Mathematics Division at Oak Ridge National Laboratory and the Group Lead for the Learning Systems Group within the Data and AI Systems Section. His research focuses on artificial intelligence, evolutionary algorithms, and machine learning as they apply to data analysis, information processing, and prediction. His work has achieved more than 100 publications, 4 patents, 3 software copyrights, 3 R&D 100 Awards, and 3 nominations for the Association of Computing Machinery Gordon Bell Award.
 
-Janis Keuper, Fraunhofer ITWM
+### Janis Keuper, Fraunhofer ITWM
 
 Janis Keuper is a Senior Scientist at the Competence Center for High Performance Computing located at the Fraunhofer Institute for Industrial Mathematics (ITWM) in Kaiserslautern, Germany. His main research interests are scalable algorithms for Machine Learning, Pattern Recognition and Computer Vision. Before joining ITWM in 2012, he was a Group Leader at the Intel Visual Computing Institute (Saarbru ̈cken, Germany). Janis received his Masters and PhD degrees in Computer Science form the Albert- Ludwigs University in Freiburg and did his PostDoc training in the group of Prof. Bernd Ja ̈hne at the University of Heidelberg.
 
-Michael Houston, NVIDIA
+### Michael Houston, NVIDIA
 
 Michael Houston is a Distinguished Engineer at Nvidia. He leads the Deep Learning SW team and works on optimizing deep learning frameworks and algorithms for Nvidia platforms. Mike received his BS in Computer Science with honors from the University of California, San Diego (UCSD) in 2001. During his time at UCSD, he worked at the San Diego Supercomputer Center in the Visualization Group. He received his PhD from Stanford University where he worked in the Stanford Graphics Lab under the advisement of Pat Hanrahan and received an Intel PhD Fellowship. Mike spent several years at ATI and then as an AMD Fellow in the Advanced Technology Development Group working on hardware and software for heterogeneous computing before coming to Nvidia.
 
-Xipeng Shen, North Carolina State University
+### Xipeng Shen, North Carolina State University
 
 Xipeng Shen joined North Carolina State University in August 2014 as a Chancellor’s Faculty Excellence
 Program cluster hire in Data-Driven Science. He is a receipt of the DOE Early Career Award, NSF CAREER
