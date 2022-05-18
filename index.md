@@ -11,9 +11,13 @@ machine learning and to share the wide range of applications that would benefit 
 ## Important dates
 
 Submission Deadline: Aug 1, 2022
+
 Author Notification: Sept 1, 2022
+
 Final Manuscript Due: Sept 15, 2022 
+
 Workshop Date: November 13, 2022
+
 
 ## Contact
 Robert M. Patton, pattonrm "at" ornl.gov
