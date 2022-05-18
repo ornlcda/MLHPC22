@@ -4,3 +4,5 @@ url: https://ornlcda.github.io  # the base hostname and protocol for your site, 
 baseurl: /MLHPC22/ 
 title: SC'22 Machine Learning in HPC Environments
 description: SC'22 Machine Learning in HPC Environments
+github:
+  is_project_page: false
