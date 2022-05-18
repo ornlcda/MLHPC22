@@ -8,7 +8,7 @@ machine learning and methods for exploiting data parallelism, model parallelism,
 We invite researchers and practitioners to participate in this workshop to discuss the challenges in using HPC for 
 machine learning and to share the wide range of applications that would benefit from HPC powered machine learning.
 
-# Scope
+## Scope
 
 The intent of this workshop is to bring together researchers, practitioners, and scientific communities to discuss methods that utilize extreme scale systems for machine learning. This workshop will focus on the greatest challenges in utilizing HPC for machine learning and methods for exploiting data parallelism, model parallelism, ensembles, and parameter search. We invite researchers and practitioners to participate in this workshop to discuss the challenges in using HPC for machine learning and to share the wide range of applications that would benefit from HPC powered machine learning.
 Topics: The major topics of interest to the workshop include but are not limited to:
